@@ -15,7 +15,7 @@ pip install foobar
 ## Usage
 
 ```ython
-impor 
+impor
 foobar
 
 # returns 'words'
