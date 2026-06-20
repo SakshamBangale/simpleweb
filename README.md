@@ -14,7 +14,7 @@ pip install foobar
 
 ## Usage
 
-```python
+```ython
 import 
 foobar
 
